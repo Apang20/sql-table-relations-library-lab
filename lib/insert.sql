@@ -1,4 +1,4 @@
-INSERT INTO series (id, title, author_id, subgenre_id) VALUES (1, "Frist Series", 1, 1), (2, "Second Series", 2, 2);
+INSERT INTO series (id, title, author_id, subgenre_id) VALUES (1, "First Series", 1, 1), (2, "Second Series", 2, 2);
 
 INSERT INTO subgenres (id, name) VALUES (1, "water world"), (2, "outer space");
 
